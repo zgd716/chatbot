@@ -5,7 +5,7 @@
 
 效果如图所示：
 
-![avatar](/KG/movie/example.png)
+  ![avatar](/KG/movie/example.png)
 
 
 主要流程：
