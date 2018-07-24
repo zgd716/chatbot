@@ -1,5 +1,5 @@
 # chatbot
-该项目会继续完善，包含kbqa(neo4j)、task-oriented、chatbot、qa；目前kbqa  demo已完成
+该项目会继续完善，包含kbqa(neo4j)、task-oriented、chatbot、qa
 
 一、kbqa
 
